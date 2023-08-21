@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **iamanimesh11june@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/iamanimesh11/animesh11/blob/main/animesh_resume.pdf](https://github.com/iamanimesh11/animesh11/blob/main/animesh_resume.pdf)
+- 📄 Know about my experiences [https://github.com/iamanimesh11/iamanimesh11/blob/main/animesh_resume.pdf](https://github.com/iamanimesh11/iamanimesh11/blob/main/animesh_resume.pdf)
 
 - ⚡ Fun fact **I am creative towards data,AI**
 
