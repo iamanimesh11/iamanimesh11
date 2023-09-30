@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **machine learning,deep learning,AI**
 
-- 👨‍💻 All of my projects are available at [https://animesh11portfolio.streamlit.app/](https://animesh11portfolio.streamlit.app/)
+- 👨‍💻 All of my projects are available at [https://animesh11portfolio.streamlit.app/](https://animesh-portfolio-site.streamlit.app/)
 
 - 💬 Ask me about **Data,bots,EDA,NLP, DL,python**
 
