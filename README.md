@@ -1,6 +1,6 @@
 ![logo](https://github.com/iamanimesh11/iamanimesh11/blob/main/Untitled%20design%20(1).png)
 <h1 align="center">Hi 👋, I'm Animesh Singh</h1>
-<h3 align="center">A passionate Data Scientist, RPA Developer from India</h3>
+<h3 align="center"></h3>
 
 <img align="right" alt="coding" width ="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
