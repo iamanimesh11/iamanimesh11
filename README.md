@@ -1,188 +1,171 @@
-
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║          INITIALIZING ANIMESH.SYS...  ████████ 100%       ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0d2137,100:0d1117&height=220&section=header&text=Animesh%20Singh&fontSize=55&fontColor=58a6ff&fontAlignY=45&desc=⚡%20Data%20%26%20Automation%20Engineer%20%7C%20Building%20Pipelines%20at%20Scale&descSize=15&descColor=8b949e&descAlignY=65&animation=fadeIn&stroke=58a6ff&strokeWidth=1" width="100%"/>
 
-# `$ whoami` → **Animesh Singh**
+<br/>
 
-### ⚡ Software Developer (Data & Automation) · Building pipelines that never sleep
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1500&color=58a6ff&center=true&vCenter=true&multiline=false&width=600&height=40&lines=Real-Time+ETL+%7C+PySpark+%7C+Kafka+%7C+Airflow+%7C+Docker;10M%2B+device+pipelines+%40+sub-100ms+latency+%F0%9F%9A%80;AWS+Certified+Data+Engineer+%7C+Greater+Noida%2C+India" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Real-Time+ETL+%7C+PySpark+%7C+Kafka+%7C+Airflow;10M%2B+device+pipelines+%40+sub-100ms+latency;AWS+Certified+Data+Engineer+2026;Automating+the+boring%2C+scaling+the+exciting." alt="Typing SVG" />
+<br/>
 
 ---
+
+## `whoami`
 
 ```python
 animesh = {
-    "location"   : "Greater Noida, UP, India 🇮🇳",
-    "role"       : "Software Developer — Data & Automation",
-    "company"    : "LG Electronics (via Neuheit Technologies)",
-    "education"  : "B.Tech CSE · Galgotias University · CGPA 8.0",
-    "mission"    : "Build scalable, production-grade data systems that drive decisions",
-    "currently"  : ["Kafka Streaming", "PySpark", "AI/ML + RAG Pipelines"],
-    "fun_fact"   : "I automated 300+ manual entries/day so humans could do human things 🤖",
+    "role"      : "Software Developer — Data & Automation @ LG Electronics",
+    "location"  : "Greater Noida, UP, India",
+    "education" : "B.Tech CSE · Galgotias University · CGPA 8.0",
+    "focus"     : ["Real-Time ETL", "Pipeline Orchestration", "Cloud Infrastructure"],
+    "exploring" : ["LLMs", "RAG Pipelines", "Vector Databases"],
+    "fun_fact"  : "Automated 300+ manual entries/day — let humans do human things 🤖",
 }
 ```
 
+<br/>
+
 ---
 
-## `$ ls ./skills`
+## `cat skills.txt`
+
+<br/>
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td align="center">
 
-**⚙️ Languages & Core**
-
-![Python](https://img.shields.io/badge/Python-00FFB3?style=flat-square&logo=python&logoColor=000)
-![SQL](https://img.shields.io/badge/SQL-00FFB3?style=flat-square&logo=postgresql&logoColor=000)
-![Shell](https://img.shields.io/badge/Shell-00FFB3?style=flat-square&logo=gnubash&logoColor=000)
-
-</td>
-<td valign="top" width="33%">
-
-**🔥 Big Data & Streaming**
-
-![PySpark](https://img.shields.io/badge/PySpark-FF6B35?style=flat-square&logo=apachespark&logoColor=fff)
-![Kafka](https://img.shields.io/badge/Kafka-FF6B35?style=flat-square&logo=apachekafka&logoColor=fff)
-![Airflow](https://img.shields.io/badge/Airflow-FF6B35?style=flat-square&logo=apacheairflow&logoColor=fff)
-![Databricks](https://img.shields.io/badge/Databricks-FF6B35?style=flat-square&logo=databricks&logoColor=fff)
-![DBT](https://img.shields.io/badge/DBT-FF6B35?style=flat-square&logo=dbt&logoColor=fff)
+**Languages**<br/>
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58a6ff)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=58a6ff)
+![Shell](https://img.shields.io/badge/Shell-0d1117?style=for-the-badge&logo=gnubash&logoColor=58a6ff)
 
 </td>
-<td valign="top" width="33%">
+<td align="center">
 
-**☁️ Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-6C63FF?style=flat-square&logo=amazonaws&logoColor=fff)
-![GCP](https://img.shields.io/badge/GCP-6C63FF?style=flat-square&logo=googlecloud&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-6C63FF?style=flat-square&logo=docker&logoColor=fff)
-![Grafana](https://img.shields.io/badge/Grafana-6C63FF?style=flat-square&logo=grafana&logoColor=fff)
+**Big Data & Streaming**<br/>
+![PySpark](https://img.shields.io/badge/PySpark-0d1117?style=for-the-badge&logo=apachespark&logoColor=f0883e)
+![Kafka](https://img.shields.io/badge/Kafka-0d1117?style=for-the-badge&logo=apachekafka&logoColor=f0883e)
+![Airflow](https://img.shields.io/badge/Airflow-0d1117?style=for-the-badge&logo=apacheairflow&logoColor=f0883e)
+![Databricks](https://img.shields.io/badge/Databricks-0d1117?style=for-the-badge&logo=databricks&logoColor=f0883e)
+![DBT](https://img.shields.io/badge/DBT-0d1117?style=for-the-badge&logo=dbt&logoColor=f0883e)
 
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td align="center">
 
-**🗄️ Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00FFB3?style=flat-square&logo=postgresql&logoColor=000)
-![Snowflake](https://img.shields.io/badge/Snowflake-00FFB3?style=flat-square&logo=snowflake&logoColor=000)
-![BigQuery](https://img.shields.io/badge/BigQuery-00FFB3?style=flat-square&logo=googlebigquery&logoColor=000)
-![Redis](https://img.shields.io/badge/Redis-00FFB3?style=flat-square&logo=redis&logoColor=000)
-
-</td>
-<td valign="top">
-
-**🤖 AI / ML**
-
-![LLMs](https://img.shields.io/badge/LLMs-FF6B35?style=flat-square&logo=openai&logoColor=fff)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B35?style=flat-square&logo=databricks&logoColor=fff)
-![VectorDB](https://img.shields.io/badge/Vector_DBs-FF6B35?style=flat-square&logo=pinecone&logoColor=fff)
+**Cloud & DevOps**<br/>
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=3fb950)
+![GCP](https://img.shields.io/badge/GCP-0d1117?style=for-the-badge&logo=googlecloud&logoColor=3fb950)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=3fb950)
+![Grafana](https://img.shields.io/badge/Grafana-0d1117?style=for-the-badge&logo=grafana&logoColor=3fb950)
 
 </td>
-<td valign="top">
+<td align="center">
 
-**📡 Messaging**
-
-![MQTT](https://img.shields.io/badge/MQTT-6C63FF?style=flat-square&logo=mqtt&logoColor=fff)
-![Kafka](https://img.shields.io/badge/Kafka_Streams-6C63FF?style=flat-square&logo=apachekafka&logoColor=fff)
+**Databases & Messaging**<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=a371f7)
+![Snowflake](https://img.shields.io/badge/Snowflake-0d1117?style=for-the-badge&logo=snowflake&logoColor=a371f7)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=a371f7)
+![BigQuery](https://img.shields.io/badge/BigQuery-0d1117?style=for-the-badge&logo=googlebigquery&logoColor=a371f7)
+![MQTT](https://img.shields.io/badge/MQTT-0d1117?style=for-the-badge&logo=mqtt&logoColor=a371f7)
 
 </td>
 </tr>
 </table>
 
----
-
-## `$ cat ./impact.log`
-
-```
-[✔] Improved reporting speed ............ +70%  @ LG Electronics
-[✔] Reduced manual effort ............... -90%  (300+ daily entries automated)
-[✔] Operational efficiency boost ........ +80%  factory workflows
-[✔] Process uptime maintained ........... 99%
-[✔] Pipeline failure rate cut ........... -40%
-[✔] IoT pipeline simulated .............. 10M+  smart appliances
-[✔] Ingestion latency ................... <100ms sub-millisecond
-[✔] Infrastructure efficiency ........... 95%+  containerized setup
-[✔] System visibility improved .......... +85%  with Grafana observability
-```
+<br/>
 
 ---
 
-## `$ cat ./projects/featured`
+## `./impact --employer=LG_Electronics`
 
-### 🚀 Real-Time IoT ETL · Reactive & Predictive Maintenance
+<br/>
 
-> *Simulating LG ThinQ's microservice architecture at scale*
+| Metric | Result |
+|:---|:---:|
+| 🔵 Reporting speed improvement via ETL automation | **`+70%`** |
+| 🔵 Manual effort eliminated (UiPath + Python) | **`-90%`** |
+| 🔵 Daily repetitive entries automated | **`300+/day`** |
+| 🔵 Factory workflow operational efficiency | **`+80%`** |
+| 🔵 Process uptime maintained | **`99%`** |
+| 🔵 Pipeline failure rate reduction | **`-40%`** |
 
-```
-MQTT Devices (10M+)
-      │
-      ▼
-  Kafka Broker ──► PySpark Streaming ──► PostgreSQL
-      │                    │
-      ▼                    ▼
-  Redis Cache          Anomaly Detection
-      │                    │
-      └────────────────────┘
-                │
-                ▼
-       Grafana + Prometheus
-       (Discord Alerts 🔔)
-```
-
-**Stack:** `Python` · `PySpark` · `Kafka` · `MQTT` · `Redis` · `Airflow` · `Docker` · `Grafana Loki` · `Firebase` · `PostgreSQL`
-
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/iamanimesh11)
+<br/>
 
 ---
 
-## `$ cat ./certifications`
+## `git log --oneline --featured`
 
-| 🏆 Certification | 📅 Year |
-|---|---|
-| **AWS Certified Data Engineer – Associate** | 2026 |
-| **Master RAG (Retrieval-Augmented Generation)** – LinkedIn | 2025 |
-| **Snowflake Hands-On Essentials** | 2025 |
+<br/>
 
----
-
-## `$ ping animesh --connect`
-
-<p align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/animesh-singh11)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamanimesh11)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamanimesh11june@gmail.com)
-
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamanimesh11&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=FF6B35" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamanimesh11&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FFB3" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamanimesh11&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FFB3&fire=FF6B35&currStreakLabel=00FFB3" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamanimesh11&color=00FFB3&style=flat-square&label=Profile+Views" />
-</p>
+> ### ⚡ Real-Time IoT ETL — Reactive & Predictive Maintenance
+> *Containerized telemetry pipeline simulating **10M+ smart appliances**, inspired by LG ThinQ's microservice architecture*
 
 ```
-╔══════════════════════════════════════════════════════╗
-║  "Data is only as good as the pipeline behind it."  ║
-║                                   — Animesh Singh   ║
-╚══════════════════════════════════════════════════════╝
+[MQTT Broker] ──► [Kafka Ingestion Bridge] ──► [PySpark Structured Streaming]
+                                                         │
+                              ┌──────────────────────────┤
+                              ▼                          ▼
+                     [PostgreSQL Schemas]     [Anomaly Detection Engine]
+                              │
+                              ▼
+               [Prometheus + Grafana + Fluent Bit]
+               [Discord Alerts · sub-100ms latency · 95%+ infra efficiency]
 ```
+
+**Stack** · `Python` `PySpark` `Kafka` `MQTT` `Redis` `Airflow` `Docker` `Grafana Loki` `Firebase` `PostgreSQL`
+
+[![GitHub](https://img.shields.io/badge/View_Repository-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/iamanimesh11)
+
+<br/>
+
+---
+
+## `cat certifications.json`
+
+<br/>
+
+```json
+[
+  { "title": "AWS Certified Data Engineer – Associate",       "year": 2026 },
+  { "title": "Master Retrieval-Augmented Generation (RAG)",  "year": 2025 },
+  { "title": "Snowflake Hands-On Essentials Workshops",      "year": 2025 }
+]
+```
+
+<br/>
+
+---
+
+## `gh stats --user iamanimesh11`
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=iamanimesh11&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f0883e&text_color=8b949e&ring_color=58a6ff" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamanimesh11&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="160"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamanimesh11&hide_border=true&background=0d1117&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=21262d" width="60%"/>
+
+<br/>
+
+---
+
+## `ssh animesh@connect`
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/animesh-singh11)
+[![Email](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=f0883e)](mailto:iamanimesh11june@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=3fb950)](https://github.com/iamanimesh11)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0d1117&height=100&section=footer&text=&animation=fadeIn" width="100%"/>
+
+<img src="https://komarev.com/ghpvc/?username=iamanimesh11&color=58a6ff&style=flat-square&label=profile+views" />
 
 </div>
