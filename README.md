@@ -9,7 +9,7 @@
 
 # `$ whoami` → **Animesh Singh**
 
-### ⚡ Software Developer (Data & Automation) · Building pipelines that never sleep
+### ⚡ Software Engineer (Data & AI) · Building pipelines that never sleep
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Real-Time+ETL+%7C+PySpark+%7C+Kafka+%7C+Airflow;10M%2B+device+pipelines+%40+sub-100ms+latency;AWS+Certified+Data+Engineer+2026;Automating+the+boring%2C+scaling+the+exciting." alt="Typing SVG" />
 
